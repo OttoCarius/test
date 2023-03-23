@@ -326,7 +326,7 @@ legend {
     background-image: url("../images/background/bg-purple.png"), url("../images/background/bg-blue.png"), url("../images/background/bg-green.png");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 641px;
+    height: 671px;
   }
 }
 
@@ -341,6 +341,7 @@ legend {
 @media (max-width: 480px) {
   .dasd {
     width: 100%;
+    margin-top: 32px;
   }
 }
 

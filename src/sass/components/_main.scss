@@ -198,7 +198,7 @@
       url('../images/background/bg-green.png');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 641px;
+    height: 671px;
   }
 }
 
@@ -214,6 +214,7 @@
   @media (max-width: 480px) {
     // overflow-y: hidden;
     width: 100%;
+    margin-top: 32px;
   }
 }
 
