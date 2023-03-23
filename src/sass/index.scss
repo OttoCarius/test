@@ -1,2 +1,6 @@
+@import './base/body';
+@import './utils/mixin';
+@import './utils/variables';
 @import './common';
-@import './example';
+
+@import './components/main';
