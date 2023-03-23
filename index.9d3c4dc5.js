@@ -1,0 +1,2 @@
+function scrollEvents(){var e=document.querySelectorAll(".section"),t=document.querySelectorAll(".descrip-btn-item"),c=new IntersectionObserver((function(e){e.forEach((function(e){e.isIntersecting&&t.forEach((function(t){var c;(null===(c=t.getAttribute("href"))||void 0===c?void 0:c.replace("#",""))===e.target.id?t.classList.add("active"):t.classList.remove("active")}))}))}),{threshold:.7});e.forEach((function(e){c.observe(e)}))}scrollEvents();
+//# sourceMappingURL=index.9d3c4dc5.js.map
